@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **zainab99.a.hassan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zainab-ali](https://www.linkedin.com/in/zainab-ali)
+- 📄 Know about my experiences [https://www.linkedin.com/in/zainab-ali-897286235](https://www.linkedin.com/in/zainab-ali-897286235)
 
 
 
@@ -35,7 +35,7 @@
 <p align="left">
   E-mail: <a href="zainab99.a.hassan@gmail.com">zainab99.a.hassan@gmail.com</a><br/>
   Address: Iraq - Baghdad<br />
-  LinkedIn: <a href="https://www.linkedin.com/in/zainab-ali" target="blank">https://www.linkedin.com/in/zainab-ali</a>
+  LinkedIn: <a href="https://www.linkedin.com/in/zainab-ali-897286235" target="blank">https://www.linkedin.com/in/zainab-ali-897286235</a>
 </p>
 
 
