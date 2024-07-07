@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zainab Ali</h1>
 <br>
-<h3 align="center">Mobile Application Developer </h3>
+<h3 align="center">Frontend Developer </h3>
 <br>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Flutter ,Android Studio and Front end web developer**
 
-- 👯 I’m looking to collaborate on **Flutter&Android Studio Projects**
+- 👯 I’m looking to collaborate on **Flutter,Android & React.js Studio Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zainab99a](https://github.com/zainab99a)
 
@@ -52,7 +52,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> 
 <img src="https://icons.veryicon.com/png/o/file-type/exquisite-multicolor-icon/androidstudio.png" alt="androidstudio" width="40" height="40"/> </a> 
-<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="css html js" width="120" height="80"/> </a> 
+<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="css html js" width="160" height="40"/> </a> 
 
 </p>
 
