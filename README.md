@@ -46,13 +46,15 @@
 
 
 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="70"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="70"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="70"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="70"/> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="70"/> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="70"/> </a> 
-<img src="https://icons.veryicon.com/png/o/file-type/exquisite-multicolor-icon/androidstudio.png" alt="androidstudio" width="40" height="70"/> </a> 
-<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="css html js" width="150" height="70"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="70"/> 
+<img src="https://icons.veryicon.com/png/o/file-type/exquisite-multicolor-icon/androidstudio.png" alt="androidstudio" width="40" height="70"/>
+<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="css html js" width="150" height="70"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-java-3521514-2945017.png?f=webp&w=256" alt="java" width="150" height="70"/> 
+
 
 </p>
 
