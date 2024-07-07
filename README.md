@@ -52,7 +52,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> 
 <img src="https://icons.veryicon.com/png/o/file-type/exquisite-multicolor-icon/androidstudio.png" alt="androidstudio" width="40" height="40"/> </a> 
-<img src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" alt="androidstudio" width="40" height="40"/> </a> 
+
 </p>
 
 
