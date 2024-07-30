@@ -17,11 +17,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanyoussry&label=Profile%20views&color=0e75b6&style=flat" alt="ibraheem" /> </p>
 
 
-- I’m currently working on **my portfolio**
+- I’m currently working on **my Capston project**
 
-- 🌱 I’m currently learning **Flutter ,Android Studio and Front end web developer**
+- 🌱 I’m currently learning **Frontend web developer**
 
-- 👯 I’m looking to collaborate on **Flutter,Android & React.js Studio Projects**
+- 👯 I’m looking to collaborate on **React.js Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zainab99a](https://github.com/zainab99a)
 
